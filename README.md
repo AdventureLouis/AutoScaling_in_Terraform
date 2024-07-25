@@ -1,4 +1,4 @@
-# Autoscaling_In_Terraform
+# AutoScaling_in_Terraform
 ## Auto scaling implementation in AWS using Terraform
 ### The aim of the project is to illustrate how cost can be controlled and properly managed when utilizing AWS services
 <br>
