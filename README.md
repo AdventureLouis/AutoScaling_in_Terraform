@@ -6,7 +6,7 @@ The aim of the project is to utilize Infrastructure as Code(IaC) Terraform to im
 ![Auto-scaling-diagram](https://github.com/user-attachments/assets/753a7eee-aa9f-4e70-87fa-5cea474f8491)
 
 
-# AWS Resources  used for this project inlude the following:
+# AWS Resources  used for this project include the following:
 
 - VPC
 
