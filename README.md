@@ -8,8 +8,10 @@ The aim of the project is to utilize Infrastructure as Code(IaC) Terraform to im
 
 # AWS Resources  used for this project include the following:
 
+- IAM Permission
+  
 - VPC
-
+  
 - 3 Public and 3 Private subnet
 
 - Application Load Balancer
